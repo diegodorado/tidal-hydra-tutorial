@@ -8,3 +8,5 @@ Se ven 4 formas de enviar mensajes OSC de [tidalcycles](https://tidalcycles.org)
 2. enviar osc desde tidal tambien a hydra
 3. enviar custom osc desde tidal a hydra
 4. enviar los rms de los orbits desde superdirt a hydra
+
+Nota: Sólo funciona en Atom, ya que OSC no funciona en el browser.
